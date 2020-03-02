@@ -5,15 +5,15 @@ It will give better experience with operator mono fonts.
 **Screenshots:**
 
 
-![Alt text](/screenshots/sc1.png?raw=true "Image")
+![Alt text](https://github.com/vineetkse/vscodetheme/blob/master/screenshots/sc1.png?raw=true "Image")
 
 
 
-![Alt text](/screenshots/sc2.png?raw=true "Image")
+![Alt text](https://github.com/vineetkse/vscodetheme/blob/master/screenshots/sc2.png?raw=true "Image")
 
 
 
 
-![Alt text](/screenshots/sc3.png?raw=true "Image")
+![Alt text](https://github.com/vineetkse/vscodetheme/blob/master/screenshots/sc3.png?raw=true "Image")
 
 
