@@ -1,0 +1,26 @@
+{
+    "name": "glowcolor",
+    "displayName": "glowcolor",
+    "description": "Eye catching glowing syntax color. Easy to read while coding.",
+    "version": "0.0.1",
+    "author": {
+        "email": "vineetkse@gmail.com",
+        "name": "Vineet Kumar"
+    },
+    "publisher": "vineetkse",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "glowcolor",
+                "uiTheme": "vs",
+                "path": "./themes/glowcolor-color-theme.json"
+            }
+        ]
+    }
+}
