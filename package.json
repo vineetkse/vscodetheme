@@ -2,12 +2,12 @@
     "name": "glowcolor",
     "displayName": "glowcolor",
     "description": "Eye catching glowing syntax color. Easy to read while coding.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
-        "email": "vineetkse@gmail.com",
+        "email": "sonuviz@live.com",
         "name": "Vineet Kumar"
     },
-    "publisher": "vineetkse",
+    "publisher": "sonuviz",
     "engines": {
         "vscode": "^1.42.0"
     },
